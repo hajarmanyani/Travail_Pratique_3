@@ -30,4 +30,31 @@ _Faire des améliorations supplémentaires
 ![image](https://user-images.githubusercontent.com/93662714/232580997-b0414339-59cc-4237-be0b-0fd273368f7a.png)
 
 
+# Part 1- Spring Boot Spring MVC Thymeleaf Spring Data Intellij
+
+1. Ajouter une classe template "template1"
+![image](https://user-images.githubusercontent.com/93662714/232588272-87d9c312-d886-43d7-8d05-7ffdb7835898.png)
+![image](https://user-images.githubusercontent.com/93662714/232588448-33e28934-70ac-43ae-bc84-cd8d7e3ab33d.png)
+
+2. Créer un formulaire pour ajouter les patients
+![image](https://user-images.githubusercontent.com/93662714/232589174-5c263565-fbfd-40b8-ae68-1ac313367f90.png)
+
+3. Ajouter les deux méthodes "formPatients" et "Save" au niveau de controleur pour valider les informations et enregistrer le patient
+![image](https://user-images.githubusercontent.com/93662714/232590980-b1ffd012-b7de-4dde-af42-42b2c9c5e7f6.png)
+
+![image](https://user-images.githubusercontent.com/93662714/232591579-f82ba486-a186-4285-983d-5f66851c3da9.png)
+![image](https://user-images.githubusercontent.com/93662714/232591796-ae973fe5-1dff-424a-a0c7-42d109980231.png)
+
+4. Ajouter les annotations de validation
+![image](https://user-images.githubusercontent.com/93662714/232592490-2a45f45f-34fe-4eed-ae81-2202e3dfeeea.png)
+![image](https://user-images.githubusercontent.com/93662714/232593046-451f8f18-f1f8-4e15-9aeb-333ae936d3a0.png)
+
+5. Modifier un patient
+![image](https://user-images.githubusercontent.com/93662714/232594026-b95600d5-3dab-441c-a8cf-fd110086ebf5.png)
+![image](https://user-images.githubusercontent.com/93662714/232594436-90373758-cc58-4d59-9489-366d6d2efc8a.png)
+![image](https://user-images.githubusercontent.com/93662714/232595903-82f5bf74-90e2-4bdd-ad96-9f5f1567bd00.png)
+
+
+
+
 
