@@ -30,7 +30,7 @@ _Faire des améliorations supplémentaires
 ![image](https://user-images.githubusercontent.com/93662714/232580997-b0414339-59cc-4237-be0b-0fd273368f7a.png)
 
 
-# Part 1- Spring Boot Spring MVC Thymeleaf Spring Data Intellij
+# Part 2- Spring Boot Spring MVC Thymeleaf Spring Data Intellij
 
 1. Ajouter une classe template "template1"
 ![image](https://user-images.githubusercontent.com/93662714/232588272-87d9c312-d886-43d7-8d05-7ffdb7835898.png)
