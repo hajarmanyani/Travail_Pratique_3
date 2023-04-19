@@ -12,22 +12,22 @@ _Faire des améliorations supplémentaires
 ![image](https://user-images.githubusercontent.com/93662714/232568918-55b0d257-4d0b-4d58-b16a-640de1a78dcb.png)
 
 2. Utiliser Bootstrap pour ajouter du style
-![image](https://user-images.githubusercontent.com/93662714/232575081-196d2b71-e0c6-4004-8258-68405bbaf398.png)
+![image](https://user-images.githubusercontent.com/93662714/233083026-7ffc6176-b2fa-4d97-9107-cbb70174e676.png)
 
 3. Ajouter un controleur et effectuer la pagination
 ![image](https://user-images.githubusercontent.com/93662714/232576355-7f5de674-319a-466b-9838-1004d7fd3b9b.png)
 
 4. Sélectionner la page courante:
 ![image](https://user-images.githubusercontent.com/93662714/232577173-f4f6f4c6-b45a-4474-8484-ec3b0199435f.png)
-![image](https://user-images.githubusercontent.com/93662714/232578196-74918b5a-00b2-4c0b-8b06-0c56dade4438.png)
+![image](https://user-images.githubusercontent.com/93662714/233083929-746a1a57-d2a2-4697-9dbf-2d9e4bc3c979.png)
 
 5. Récupérer le mot clé saisi pour rechercher un patient
 ![image](https://user-images.githubusercontent.com/93662714/232579797-2bb1301f-a5b4-4dba-9b20-7255a9b2166f.png)
-![image](https://user-images.githubusercontent.com/93662714/232580314-8b4f8fd7-9a6f-4007-a4a8-30948da0d2f4.png)
+![image](https://user-images.githubusercontent.com/93662714/233085878-e676ee19-8312-454b-81c0-3a7a21e350a7.png)
 
 6. Supprimer un patient
 ![image](https://user-images.githubusercontent.com/93662714/232581393-da367789-1d70-4660-a6e1-6366ac90cb70.png)
-![image](https://user-images.githubusercontent.com/93662714/232580997-b0414339-59cc-4237-be0b-0fd273368f7a.png)
+![image](https://user-images.githubusercontent.com/93662714/233086512-4d2dba6f-4377-40b0-b101-d6ef4784c9b7.png)
 
 
 # Part 2- Spring Boot Spring MVC Thymeleaf Spring Data Intellij
