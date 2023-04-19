@@ -52,7 +52,8 @@ _Faire des améliorations supplémentaires
 5. Modifier un patient
 ![image](https://user-images.githubusercontent.com/93662714/232594026-b95600d5-3dab-441c-a8cf-fd110086ebf5.png)
 ![image](https://user-images.githubusercontent.com/93662714/232594436-90373758-cc58-4d59-9489-366d6d2efc8a.png)
-![image](https://user-images.githubusercontent.com/93662714/232595903-82f5bf74-90e2-4bdd-ad96-9f5f1567bd00.png)
+![image](https://user-images.githubusercontent.com/93662714/233077482-383bd4f2-b448-460a-8648-eea84ab36350.png)
+![image](https://user-images.githubusercontent.com/93662714/233079188-2e38b58d-85dc-476e-8b47-2cd212fa8ebb.png)
 
 
 
